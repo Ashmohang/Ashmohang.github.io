@@ -1,0 +1,116 @@
+---
+title: "Projects"
+page-layout: full
+---
+
+::: {.projects-intro}
+## Research, systems & experiments
+
+A selection of research studies, methodological work, and systems I have worked on. Some are conventional research projects; others come from building infrastructure and tools in settings where data, software, and clinical workflows meet.
+:::
+
+
+## Research Studies
+
+::: {.project-item}
+### LIRA | Independent Clinical AI Validation
+
+**Clinical AI · External validation · Diagnostic accuracy · Implementation**
+
+Independent validation of a commercially deployed deep-learning system for tuberculosis screening using chest radiographs in a tertiary-care setting.
+
+The study examines more than headline discrimination performance. It considers threshold behaviour, data quality, subgroup performance, and the consequences of deploying a model in a population and clinical environment distinct from those in which it was developed.
+
+**Methods:** ROC analysis, threshold sensitivity analysis, subgroup analysis, diagnostic accuracy methodology, health-economic modelling
+:::
+
+
+::: {.project-item}
+### Probabilistic Modelling of Anaemia Aetiology
+
+**Bayesian modelling · Uncertainty · Multimodal data · Longitudinal inference**
+
+Exploring probabilistic approaches for reasoning about the likely drivers of persistent anaemia using heterogeneous and incomplete evidence.
+
+The work considers how longitudinal haemoglobin measurements can be combined with biomarkers, dietary information, environmental exposures, and other observations while preserving uncertainty rather than forcing individuals into deterministic categories.
+
+**Interests:** Bayesian inference, uncertainty quantification, latent structure, multimodal evidence, longitudinal modelling
+:::
+
+
+::: {.project-item}
+### Spectral Learning from Accelerometer Data
+
+**Signal processing · Machine learning · Uncertainty**
+
+A machine-learning pipeline for raw high-frequency accelerometer data in which frequency-domain information is recovered using spectral decomposition rather than relying exclusively on conventional count-based aggregation.
+
+Multiple model instances are used to examine disagreement between predictions as an explicit source of uncertainty rather than averaging that disagreement away.
+
+**Methods:** FFT, spectral feature engineering, ensemble modelling, uncertainty quantification
+:::
+
+
+::: {.project-item}
+### Automated Anatomical ROI Identification in Forearm X-rays
+
+**Medical imaging · Deep learning · Segmentation**
+
+Developed during my MSc at the University of Warwick, this work investigated automated identification of anatomical regions of interest in forearm radiographs for bone mineral density estimation.
+
+The aim was to replace a manual ROI-selection process with a reproducible segmentation pipeline and reduce variability introduced by human selection.
+
+**Methods:** Deep learning, image segmentation, image preprocessing, medical image analysis
+:::
+
+
+::: {.project-item}
+### SPARC-GI
+
+**Clinical data · Multicentre studies · Data harmonisation**
+
+Data infrastructure for a multicentre gastrointestinal cancer cohort spanning heterogeneous datasets from participating institutions.
+
+My work focuses on multi-source ingestion, quality control, harmonisation, and creating reproducible data flows suitable for downstream clinical research.
+:::
+
+
+## Health & Clinical Systems
+
+::: {.project-item}
+### PRAKASH AMB 2.0
+
+**Public health · Longitudinal monitoring · Data systems**
+
+Architecture and data science for an individual-level anaemia surveillance system designed around resolution rather than aggregate programme coverage.
+
+The system links haemoglobin classification, protocol-timed retesting, non-responder escalation, geospatial monitoring, and role-specific dashboards into a longitudinal monitoring workflow.
+
+The project has shaped my interest in what happens when analytical methods encounter real programme constraints, incomplete observations, changing workflows, and multiple levels of decision making.
+:::
+
+
+::: {.project-item}
+### Hospital Data & Workflow Systems
+
+**Clinical infrastructure · Data streams · Workflow engineering**
+
+I have also designed and shipped internal systems at St. John's for clinical and research environments, including data-streaming infrastructure and work-management systems.
+
+These projects are less about developing another predictive model and more about the infrastructure around modelling: how information is generated, moved, checked, surfaced, and acted upon in real workflows.
+
+Where appropriate, I will document some of the engineering and design lessons from these systems here without exposing operational or sensitive information.
+:::
+
+
+## Earlier Work
+
+::: {.project-item}
+### Adaptive Speaker Recognition
+
+**Probabilistic modelling · Signal processing · Pattern recognition**
+
+Early work in probabilistic pattern recognition using Gaussian Mixture Models and Vector Quantisation for speaker recognition, including online and offline template-update mechanisms intended to adapt to changing signal conditions.
+
+This work resulted in a publication in *Computers and Electrical Engineering*.
+:::

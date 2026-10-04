@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ashwin Mohan"
+
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: writing.qmd
+        text: Writing
+      - href: cv.qmd
+        text: CV
+
+  sidebar:
+    style: floating
+    border: false
+    alignment: left
+    header: |
+      ![](images/Ashwin.png){.profile-photo}
+
+      **Ashwin Mohan**  
+      Research Scientist II  
+      ICMR-CAR MEDTECH Centre
+
+      <i class="bi bi-geo-alt-fill"></i> St. John's Research Institute  
+      <span class="profile-indent">Bengaluru, India</span>
+
+      <i class="bi bi-envelope"></i> [Email](mailto:ashwin.mohan@sjri.res.in)  
+      <i class="bi bi-github"></i> [GitHub](https://github.com/Ashmohang)  
+      <i class="bi bi-mortarboard"></i> [Google Scholar](https://scholar.google.com/citations?user=n8a97ewAAAAJ&hl=en)
+    contents: []
+
+  page-footer:
+    center: "© 2026 Ashwin Mohan"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true

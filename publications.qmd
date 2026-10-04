@@ -1,0 +1,42 @@
+---
+title: "Publications"
+---
+
+## Published
+
+**Efficient online and offline template update mechanisms for speaker recognition**  
+Anzar S.M., Amala K., Remya Rajendran, **Ashwin Mohan**, Ajeesh P.S., Mohammed Sabeeh K., Febin Aziz.  
+*Computers & Electrical Engineering*, 2016.  
+[View publication](https://doi.org/10.1016/j.compeleceng.2015.12.003)
+
+## Submitted
+
+**Tracking Beneficiaries, Not Tablets: A Digital Cascade for Individual-Level Anaemia Resolution at India's Last Mile**  
+**Ashwin Mohan**, C. A. Thomas, A. S. Kumar, P. Thankachan.  
+*Perspective. Submitted for review.*
+
+## Work in progress
+
+### Independent validation of AI for tuberculosis screening
+
+First-author study evaluating a commercial deep-learning system for tuberculosis screening in a real-world clinical population, with emphasis on external validation, threshold behaviour, imaging artefacts, subgroup performance, and clinical utility.
+
+*Manuscript in preparation for The Lancet Regional Health – Southeast Asia.*
+
+### Classification of physical activity in toddlers from hip-worn accelerometry
+
+Methodological work using raw accelerometer signals to classify physical activity in young children. The work examines signal-derived features, machine-learning classification, and uncertainty arising from disagreement between models.
+
+*Manuscript in preparation.*
+
+### Methodological evaluation of clinical AI
+
+Methodological work on the development, validation, and interpretation of AI-based clinical prediction systems, with particular interest in uncertainty and the reliability of individual predictions.
+
+*Manuscript in development.*
+
+### Evidence synthesis in nutrition
+
+Systematic review and meta-analysis addressing a nutrition-related research question using quantitative evidence synthesis.
+
+*In progress.*

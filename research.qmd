@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+## Clinical prediction and AI methodology
+
+I am interested in methods for developing and evaluating clinical prediction models and AI systems, particularly how methodological choices affect their reliability and interpretation in healthcare.
+
+## Validation and generalisability
+
+I study how prediction models perform across populations and settings, including external validation, calibration, transportability, subgroup performance, and factors that contribute to differences between development and validation performance.
+
+## Uncertainty quantification
+
+Predictions are more useful when their uncertainty is understood. I am interested in methods for quantifying uncertainty in individual predictions, distinguishing different sources of uncertainty, and understanding how uncertainty should be communicated in clinical applications.
+
+## Bayesian and probabilistic modelling
+
+I am interested in Bayesian approaches to prediction and inference, particularly for problems involving incomplete, heterogeneous, or longitudinal information. This includes probabilistic reasoning when several imperfect sources of evidence need to be combined.
+
+## Multimodal and longitudinal modelling
+
+Health data often arise from different modalities and at different points in time. I am interested in methods for integrating clinical measurements, biomarkers, imaging, physiological signals, environmental exposures, and repeated observations while accounting for their different sources of variability.
+
+## Clinical AI evaluation
+
+I am interested in how AI systems should be evaluated beyond headline performance metrics, including threshold behaviour, calibration, subgroup performance, data quality, clinical utility, and performance after deployment.

@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a researcher working at the intersection of clinical prediction, artificial intelligence, and health data science.\nI am interested in the methodological questions that arise when statistical and machine learning models move from development into real clinical settings. My interests include prediction under uncertainty, Bayesian and probabilistic modelling, validation and generalisability, and the evaluation of AI and prediction models across populations and settings.\nI am particularly interested in understanding not only whether a model performs, but when its predictions can be trusted, how uncertainty should be represented, why performance changes across settings, and how heterogeneous sources of biomedical information can be combined without hiding what remains unknown.\nMy background spans AI, medical imaging, signal processing, embedded systems, clinical research, and the development of real-world health data systems. I see these not as separate research identities, but as different ways of approaching problems in measurement, prediction, inference, and decision making."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Ashwin Mohan",
+    "section": "Research",
+    "text": "Research\nMy research spans four closely connected areas:\n\n\nClinical AI Validation\nIndependent evaluation of medical AI systems, including diagnostic performance, threshold behaviour, subgroup performance, data-quality effects, and implementation considerations.\n\n\nMedical Imaging & Signal Modelling\nMachine learning and mathematical modelling for medical images and physiological or sensor-derived signals, including segmentation, spectral analysis, and multimodal approaches.\n\n\nAI Methodology\nMethods for developing and evaluating robust healthcare AI, with interests in uncertainty quantification, Bayesian modelling, clinical prediction, and reproducible evaluation.\n\n\nApplied Health Systems\nDesign of data and decision-support systems that connect individual-level health information with real-time monitoring, clinical workflows, and public-health programmes."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "About Me",
+    "section": "Selected Work",
+    "text": "Selected Work\nMy current and previous work spans independent clinical AI validation, probabilistic modelling, medical imaging, signal processing, national health monitoring systems, and clinical data infrastructure."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Ashwin Mohan",
+    "section": "Background",
+    "text": "Background\nI hold an MSc in Diagnostics, Data and Digital Health from the University of Warwick, where my dissertation developed an automated deep-learning segmentation pipeline for anatomical ROI identification in forearm X-rays for bone mineral density estimation.\nMy earlier training is in Applied Electronics and Instrumentation Engineering, providing a foundation in signal processing, instrumentation, control systems, embedded systems, and mathematical modelling.\nResearch →    Publications →    Curriculum Vitae →"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nClinical Prediction & AI Methodology\nMethods for developing, evaluating, and interpreting prediction models and AI systems in healthcare, with particular interest in the assumptions that determine whether apparently strong model performance translates beyond development data.\n\n\nUncertainty & Probabilistic Modelling\nQuantifying uncertainty in predictions and reasoning under incomplete information. I am interested in Bayesian approaches, probabilistic inference, model uncertainty, and how uncertainty can be communicated meaningfully in clinical prediction.\n\n\nValidation & Generalisability\nUnderstanding why models perform differently across populations, institutions, and clinical settings, including external validation, calibration, transportability, dataset shift, subgroup performance, and methodological sources of bias.\n\n\nMultimodal & Longitudinal Modelling\nMethods for combining heterogeneous and imperfect information, including clinical measurements, imaging, physiological signals, biomarkers, environmental exposures, and longitudinal observations."
+  },
+  {
+    "objectID": "index.html#from-methods-to-systems",
+    "href": "index.html#from-methods-to-systems",
+    "title": "About Me",
+    "section": "From Methods to Systems",
+    "text": "From Methods to Systems\nMy research interests are shaped partly by having worked on both sides of the modelling pipeline.\nAlongside methodological and applied research, I have designed and deployed clinical data streams, research infrastructure, monitoring platforms, and workflow systems in hospital and public-health environments. Building systems that have to operate with real data, real users, and imperfect information has strongly influenced the questions I ask about prediction models and AI.\nI am therefore interested in the full path from data and measurement, through modelling and uncertainty, to validation and implementation.\nExplore my research →    Selected projects →"
+  },
+  {
+    "objectID": "index.html#current-directions",
+    "href": "index.html#current-directions",
+    "title": "About Me",
+    "section": "Current Directions",
+    "text": "Current Directions\nSome questions I am currently interested in include:\n\nHow should uncertainty around an individual prediction be quantified and communicated?\nWhy do prediction models deteriorate when transported to new populations or settings?\nHow can Bayesian reasoning help when multiple sources of clinical evidence are incomplete, noisy, or conflicting?\nHow should clinical AI systems be evaluated beyond discrimination metrics alone?\nWhat can differences between model development and external validation tell us about generalisability?\nHow can heterogeneous longitudinal and multimodal health data be combined without creating unjustified certainty?\n\nThese interests are evolving, and this site is intended to document that evolution rather than present them as a fixed research programme."
+  },
+  {
+    "objectID": "index.html#writing",
+    "href": "index.html#writing",
+    "title": "About Me",
+    "section": "Writing",
+    "text": "Writing\nI use Writing for research notes, methodological ideas, papers I find interesting, technical explorations, and occasional writing beyond research.\nOutside work, I am an avid runner and reader, so some of that will probably find its way there too."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I am interested in methods for developing and evaluating clinical prediction models and AI systems, particularly how methodological choices affect their reliability and interpretation in healthcare."
+  },
+  {
+    "objectID": "research.html#questions-i-am-interested-in",
+    "href": "research.html#questions-i-am-interested-in",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests centre on the methodological problems that arise when prediction models and AI systems are developed, validated, and used in healthcare. I am particularly interested in uncertainty, generalisability, and what happens when models encounter data and populations that differ from those on which they were developed."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of research studies, methodological work, and systems I have worked on. Some are conventional research projects; others come from building infrastructure and tools in settings where data, software, and clinical workflows meet."
+  },
+  {
+    "objectID": "projects.html#research-systems-experiments",
+    "href": "projects.html#research-systems-experiments",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of research studies, methodological work, and systems I have worked on. Some are conventional research projects; others come from building infrastructure and tools in settings where data, software, and clinical workflows meet."
+  },
+  {
+    "objectID": "projects.html#research-studies",
+    "href": "projects.html#research-studies",
+    "title": "Projects",
+    "section": "Research Studies",
+    "text": "Research Studies\n\nLIRA | Independent Clinical AI Validation\nClinical AI · External validation · Diagnostic accuracy · Implementation\nIndependent validation of a commercially deployed deep-learning system for tuberculosis screening using chest radiographs in a tertiary-care setting.\nThe study examines more than headline discrimination performance. It considers threshold behaviour, data quality, subgroup performance, and the consequences of deploying a model in a population and clinical environment distinct from those in which it was developed.\nMethods: ROC analysis, threshold sensitivity analysis, subgroup analysis, diagnostic accuracy methodology, health-economic modelling\n\n\nProbabilistic Modelling of Anaemia Aetiology\nBayesian modelling · Uncertainty · Multimodal data · Longitudinal inference\nExploring probabilistic approaches for reasoning about the likely drivers of persistent anaemia using heterogeneous and incomplete evidence.\nThe work considers how longitudinal haemoglobin measurements can be combined with biomarkers, dietary information, environmental exposures, and other observations while preserving uncertainty rather than forcing individuals into deterministic categories.\nInterests: Bayesian inference, uncertainty quantification, latent structure, multimodal evidence, longitudinal modelling\n\n\nSpectral Learning from Accelerometer Data\nSignal processing · Machine learning · Uncertainty\nA machine-learning pipeline for raw high-frequency accelerometer data in which frequency-domain information is recovered using spectral decomposition rather than relying exclusively on conventional count-based aggregation.\nMultiple model instances are used to examine disagreement between predictions as an explicit source of uncertainty rather than averaging that disagreement away.\nMethods: FFT, spectral feature engineering, ensemble modelling, uncertainty quantification\n\n\nAutomated Anatomical ROI Identification in Forearm X-rays\nMedical imaging · Deep learning · Segmentation\nDeveloped during my MSc at the University of Warwick, this work investigated automated identification of anatomical regions of interest in forearm radiographs for bone mineral density estimation.\nThe aim was to replace a manual ROI-selection process with a reproducible segmentation pipeline and reduce variability introduced by human selection.\nMethods: Deep learning, image segmentation, image preprocessing, medical image analysis\n\n\nSPARC-GI\nClinical data · Multicentre studies · Data harmonisation\nData infrastructure for a multicentre gastrointestinal cancer cohort spanning heterogeneous datasets from participating institutions.\nMy work focuses on multi-source ingestion, quality control, harmonisation, and creating reproducible data flows suitable for downstream clinical research."
+  },
+  {
+    "objectID": "projects.html#health-clinical-systems",
+    "href": "projects.html#health-clinical-systems",
+    "title": "Projects",
+    "section": "Health & Clinical Systems",
+    "text": "Health & Clinical Systems\n\nPRAKASH AMB 2.0\nPublic health · Longitudinal monitoring · Data systems\nArchitecture and data science for an individual-level anaemia surveillance system designed around resolution rather than aggregate programme coverage.\nThe system links haemoglobin classification, protocol-timed retesting, non-responder escalation, geospatial monitoring, and role-specific dashboards into a longitudinal monitoring workflow.\nThe project has shaped my interest in what happens when analytical methods encounter real programme constraints, incomplete observations, changing workflows, and multiple levels of decision making.\n\n\nHospital Data & Workflow Systems\nClinical infrastructure · Data streams · Workflow engineering\nI have also designed and shipped internal systems at St. John’s for clinical and research environments, including data-streaming infrastructure and work-management systems.\nThese projects are less about developing another predictive model and more about the infrastructure around modelling: how information is generated, moved, checked, surfaced, and acted upon in real workflows.\nWhere appropriate, I will document some of the engineering and design lessons from these systems here without exposing operational or sensitive information."
+  },
+  {
+    "objectID": "projects.html#earlier-work",
+    "href": "projects.html#earlier-work",
+    "title": "Projects",
+    "section": "Earlier Work",
+    "text": "Earlier Work\n\nAdaptive Speaker Recognition\nProbabilistic modelling · Signal processing · Pattern recognition\nEarly work in probabilistic pattern recognition using Gaussian Mixture Models and Vector Quantisation for speaker recognition, including online and offline template-update mechanisms intended to adapt to changing signal conditions.\nThis work resulted in a publication in Computers and Electrical Engineering."
+  },
+  {
+    "objectID": "research.html#clinical-prediction-and-ai-methodology",
+    "href": "research.html#clinical-prediction-and-ai-methodology",
+    "title": "Research",
+    "section": "",
+    "text": "I am interested in methods for developing and evaluating clinical prediction models and AI systems, particularly how methodological choices affect their reliability and interpretation in healthcare."
+  },
+  {
+    "objectID": "research.html#validation-and-generalisability",
+    "href": "research.html#validation-and-generalisability",
+    "title": "Research",
+    "section": "Validation and generalisability",
+    "text": "Validation and generalisability\nI study how prediction models perform across populations and settings, including external validation, calibration, transportability, subgroup performance, and factors that contribute to differences between development and validation performance."
+  },
+  {
+    "objectID": "research.html#uncertainty-quantification",
+    "href": "research.html#uncertainty-quantification",
+    "title": "Research",
+    "section": "Uncertainty quantification",
+    "text": "Uncertainty quantification\nPredictions are more useful when their uncertainty is understood. I am interested in methods for quantifying uncertainty in individual predictions, distinguishing different sources of uncertainty, and understanding how uncertainty should be communicated in clinical applications."
+  },
+  {
+    "objectID": "research.html#bayesian-and-probabilistic-modelling",
+    "href": "research.html#bayesian-and-probabilistic-modelling",
+    "title": "Research",
+    "section": "Bayesian and probabilistic modelling",
+    "text": "Bayesian and probabilistic modelling\nI am interested in Bayesian approaches to prediction and inference, particularly for problems involving incomplete, heterogeneous, or longitudinal information. This includes probabilistic reasoning when several imperfect sources of evidence need to be combined."
+  },
+  {
+    "objectID": "research.html#multimodal-and-longitudinal-modelling",
+    "href": "research.html#multimodal-and-longitudinal-modelling",
+    "title": "Research",
+    "section": "Multimodal and longitudinal modelling",
+    "text": "Multimodal and longitudinal modelling\nHealth data often arise from different modalities and at different points in time. I am interested in methods for integrating clinical measurements, biomarkers, imaging, physiological signals, environmental exposures, and repeated observations while accounting for their different sources of variability."
+  },
+  {
+    "objectID": "research.html#clinical-ai-evaluation",
+    "href": "research.html#clinical-ai-evaluation",
+    "title": "Research",
+    "section": "Clinical AI evaluation",
+    "text": "Clinical AI evaluation\nI am interested in how AI systems should be evaluated beyond headline performance metrics, including threshold behaviour, calibration, subgroup performance, data quality, clinical utility, and performance after deployment."
+  },
+  {
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "Ashwin Mohan",
+    "section": "",
+    "text": "Research Scientist II\nICMR-CAR MEDTECH Centre\nSt. John’s Research Institute\nBengaluru, India\nEmail\nGitHub"
+  },
+  {
+    "objectID": "profile.html#ashwin-mohan",
+    "href": "profile.html#ashwin-mohan",
+    "title": "Ashwin Mohan",
+    "section": "",
+    "text": "Research Scientist II\nICMR-CAR MEDTECH Centre\nSt. John’s Research Institute\nBengaluru, India\nEmail\nGitHub"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Efficient online and offline template update mechanisms for speaker recognition\nAnzar S.M., Amala K., Remya Rajendran, Ashwin Mohan, Ajeesh P.S., Mohammed Sabeeh K., Febin Aziz.\nComputers & Electrical Engineering, 2016.\nView publication"
+  },
+  {
+    "objectID": "publications.html#published",
+    "href": "publications.html#published",
+    "title": "Publications",
+    "section": "",
+    "text": "Efficient online and offline template update mechanisms for speaker recognition\nAnzar S.M., Amala K., Remya Rajendran, Ashwin Mohan, Ajeesh P.S., Mohammed Sabeeh K., Febin Aziz.\nComputers & Electrical Engineering, 2016.\nView publication"
+  },
+  {
+    "objectID": "publications.html#submitted",
+    "href": "publications.html#submitted",
+    "title": "Publications",
+    "section": "Submitted",
+    "text": "Submitted\nTracking Beneficiaries, Not Tablets: A Digital Cascade for Individual-Level Anaemia Resolution at India’s Last Mile\nAshwin Mohan, C. A. Thomas, A. S. Kumar, P. Thankachan.\nPerspective. Submitted for review."
+  },
+  {
+    "objectID": "publications.html#work-in-progress",
+    "href": "publications.html#work-in-progress",
+    "title": "Publications",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nIndependent validation of AI for tuberculosis screening\nFirst-author study evaluating a commercial deep-learning system for tuberculosis screening in a real-world clinical population, with emphasis on external validation, threshold behaviour, imaging artefacts, subgroup performance, and clinical utility.\nManuscript in preparation for The Lancet Regional Health – Southeast Asia.\n\n\nClassification of physical activity in toddlers from hip-worn accelerometry\nMethodological work using raw accelerometer signals to classify physical activity in young children. The work examines signal-derived features, machine-learning classification, and uncertainty arising from disagreement between models.\nManuscript in preparation.\n\n\nMethodological evaluation of clinical AI\nMethodological work on the development, validation, and interpretation of AI-based clinical prediction systems, with particular interest in uncertainty and the reliability of individual predictions.\nManuscript in development.\n\n\nEvidence synthesis in nutrition\nSystematic review and meta-analysis addressing a nutrition-related research question using quantitative evidence synthesis.\nIn progress."
+  }
+]

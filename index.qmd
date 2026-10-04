@@ -1,0 +1,78 @@
+---
+title: "About Me"
+---
+
+::: {.hero-intro}
+
+I am a researcher working at the intersection of **clinical prediction, artificial intelligence, and health data science**.
+
+I am interested in the methodological questions that arise when statistical and machine learning models move from development into real clinical settings. My interests include **prediction under uncertainty, Bayesian and probabilistic modelling, validation and generalisability, and the evaluation of AI and prediction models across populations and settings**.
+
+I am particularly interested in understanding not only whether a model performs, but **when its predictions can be trusted, how uncertainty should be represented, why performance changes across settings, and how heterogeneous sources of biomedical information can be combined without hiding what remains unknown**.
+
+My background spans AI, medical imaging, signal processing, embedded systems, clinical research, and the development of real-world health data systems. I see these not as separate research identities, but as different ways of approaching problems in measurement, prediction, inference, and decision making.
+
+:::
+
+## Research Interests
+
+::: {.research-grid}
+
+::: {.research-card}
+### Clinical Prediction & AI Methodology
+
+Methods for developing, evaluating, and interpreting prediction models and AI systems in healthcare, with particular interest in the assumptions that determine whether apparently strong model performance translates beyond development data.
+:::
+
+::: {.research-card}
+### Uncertainty & Probabilistic Modelling
+
+Quantifying uncertainty in predictions and reasoning under incomplete information. I am interested in Bayesian approaches, probabilistic inference, model uncertainty, and how uncertainty can be communicated meaningfully in clinical prediction.
+:::
+
+::: {.research-card}
+### Validation & Generalisability
+
+Understanding why models perform differently across populations, institutions, and clinical settings, including external validation, calibration, transportability, dataset shift, subgroup performance, and methodological sources of bias.
+:::
+
+::: {.research-card}
+### Multimodal & Longitudinal Modelling
+
+Methods for combining heterogeneous and imperfect information, including clinical measurements, imaging, physiological signals, biomarkers, environmental exposures, and longitudinal observations.
+:::
+
+:::
+
+## From Methods to Systems
+
+My research interests are shaped partly by having worked on both sides of the modelling pipeline.
+
+Alongside methodological and applied research, I have designed and deployed **clinical data streams, research infrastructure, monitoring platforms, and workflow systems** in hospital and public-health environments. Building systems that have to operate with real data, real users, and imperfect information has strongly influenced the questions I ask about prediction models and AI.
+
+I am therefore interested in the full path from **data and measurement, through modelling and uncertainty, to validation and implementation**.
+
+[Explore my research →](research.qmd) &nbsp;&nbsp; [Selected projects →](projects.qmd)
+
+## Current Directions
+
+Some questions I am currently interested in include:
+
+- How should uncertainty around an individual prediction be quantified and communicated?
+- Why do prediction models deteriorate when transported to new populations or settings?
+- How can Bayesian reasoning help when multiple sources of clinical evidence are incomplete, noisy, or conflicting?
+- How should clinical AI systems be evaluated beyond discrimination metrics alone?
+- What can differences between model development and external validation tell us about generalisability?
+- How can heterogeneous longitudinal and multimodal health data be combined without creating unjustified certainty?
+
+These interests are evolving, and this site is intended to document that evolution rather than present them as a fixed research programme.
+
+## Selected Work
+
+My current and previous work spans independent clinical AI validation, probabilistic modelling, medical imaging, signal processing, national health monitoring systems, and clinical data infrastructure.
+
+## Writing
+
+I use [Writing](writing.qmd) for research notes, methodological ideas, papers I find interesting, technical explorations, and occasional writing beyond research.
+
+Outside work, I am an avid **runner and reader**, so some of that will probably find its way there too.

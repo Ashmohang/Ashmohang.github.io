@@ -193,6 +193,14 @@ ICMR-CAR MEDTECH Centre</p>
 <p>The work considers how longitudinal haemoglobin measurements can be combined with biomarkers, dietary information, environmental exposures, and other observations while preserving uncertainty rather than forcing individuals into deterministic categories.</p>
 <p><strong>Interests:</strong> Bayesian inference, uncertainty quantification, latent structure, multimodal evidence, longitudinal modelling</p>
 </section>
+<section id="graph-learning-for-multifactorial-anaemia" class="level3 project-item">
+<h3 class="anchored" data-anchor-id="graph-learning-for-multifactorial-anaemia">Graph Learning for Multifactorial Anaemia</h3>
+<p><strong>Graph neural networks · Household data · Haemoglobinopathies · Synthetic data</strong></p>
+<p>A prototype that asks whether household structure improves aetiology inference when specialised tests are missing. Villages, households, and individuals form a heterogeneous graph carrying consumption and sanitation covariates, a CBC, and selectively measured ferritin, B12, folate, and HPLC results.</p>
+<p>Built on synthetic data with planted ground truth, including inherited carrier status that clusters in households. The results are mixed: household structure helps most for inherited conditions when HPLC is missing, but a gradient-boosted model with hand-engineered household aggregates is competitive with the GNN. The study also evaluates rule-based haemoglobinopathy screens (HbA2, HbS, Mentzer index) and where they fail. Real data will replace the synthetic data later.</p>
+<p><strong>Methods:</strong> heterogeneous GraphSAGE, gradient boosting, household-level validation, ablation, missing-data simulation</p>
+<p><a href="https://github.com/Ashmohang/Ashmohang.github.io/tree/main/_code/anaemia-graph-ml">Code, figures and write-up</a></p>
+</section>
 <section id="spectral-learning-from-accelerometer-data" class="level3 project-item">
 <h3 class="anchored" data-anchor-id="spectral-learning-from-accelerometer-data">Spectral Learning from Accelerometer Data</h3>
 <p><strong>Signal processing · Machine learning · Uncertainty</strong></p>

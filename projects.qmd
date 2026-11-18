@@ -39,6 +39,21 @@ The work considers how longitudinal haemoglobin measurements can be combined wit
 
 
 ::: {.project-item}
+### Graph Learning for Multifactorial Anaemia
+
+**Graph neural networks · Household data · Haemoglobinopathies · Synthetic data**
+
+A prototype that asks whether household structure improves aetiology inference when specialised tests are missing. Villages, households, and individuals form a heterogeneous graph carrying consumption and sanitation covariates, a CBC, and selectively measured ferritin, B12, folate, and HPLC results.
+
+Built on synthetic data with planted ground truth, including inherited carrier status that clusters in households. The results are mixed: household structure helps most for inherited conditions when HPLC is missing, but a gradient-boosted model with hand-engineered household aggregates is competitive with the GNN. The study also evaluates rule-based haemoglobinopathy screens (HbA2, HbS, Mentzer index) and where they fail. Real data will replace the synthetic data later.
+
+**Methods:** heterogeneous GraphSAGE, gradient boosting, household-level validation, ablation, missing-data simulation
+
+[Code, figures and write-up](https://github.com/Ashmohang/Ashmohang.github.io/tree/main/_code/anaemia-graph-ml)
+:::
+
+
+::: {.project-item}
 ### Spectral Learning from Accelerometer Data
 
 **Signal processing · Machine learning · Uncertainty**
